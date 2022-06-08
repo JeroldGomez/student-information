@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
 
-/* font-family: 'Poppins', sans-serif; */
-/* font-family: 'Yeseva One', cursive; */
 
 * {
     margin: 0;
@@ -92,7 +90,6 @@ strong {
 .general__table {
     width: 70vh;
     text-align: left;
-    /* border: 1px solid #ccc; */
 }
 table td, th{
     padding: 5px;
